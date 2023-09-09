@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=rianluoar)
+
+
+
 - 👋 Hi, I’m @rianluoar
 - 👀 I’m interested in Debugging other people's code, creating algorithms that make no sense, and pretending to know what I'm doing.
 - 🌱 I’m currently learning How to train a neural network to predict when my boss will ask for something last minute.
